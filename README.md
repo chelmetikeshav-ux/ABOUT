@@ -11,7 +11,7 @@
 - Python
 - Machine Learning (Basics)
 - NumPy, Pandas, and matplot.
-– Git & GitHub
+- Git & GitHub
 ## Projects
  Heart Disease Prediction via Machine Learning
 - Created an ML model to forecast the possibility of heart disease.
