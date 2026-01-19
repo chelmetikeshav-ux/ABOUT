@@ -1,8 +1,8 @@
 # ABOUT
-##Hello, I am Keshav chelmeti.
-3rd Year Engineering Student
-Learning basics of ML and actively working on open source projects
-Aspiring GitHub Extern Participant (2026)
+##?? Hello, I am Keshav chelmeti.
+-3rd Year Engineering Student
+-Learning basics of ML and actively working on open source projects
+-Aspiring GitHub Extern Participant (2026)
 ## skills
 - Python
 - Machine Learning (Basics)
