@@ -10,12 +10,12 @@
 ## skills
 - Python
 - Machine Learning (Basics)
-- NumPy, Pandas, and matplot
+- NumPy, Pandas, and matplot.
 – Git & GitHub
 ## Projects
  Heart Disease Prediction via Machine Learning
 - Created an ML model to forecast the possibility of heart disease.
-- Made use of Python, Pandas, Sc
+- Made use of Python, Pandas, Scikit-learn 
 - Involved in Data preprocessing, model testing, metrics interpretation
   ## Open Source Goals
 - Provide novice-friendly content
